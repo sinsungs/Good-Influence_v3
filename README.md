@@ -10,6 +10,7 @@
 
 ## 📄 아키텍처 ( 예상 )  
 
+<img src="./img/아키텍처.jpg" width=80%><br>
 
 <br>
 
